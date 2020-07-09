@@ -1,0 +1,6 @@
+framework module Pods_newPangestureforSportsAppTests {
+  umbrella header "Pods-newPangestureforSportsAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
